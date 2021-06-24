@@ -6,8 +6,8 @@ Description: Disable app library!
 Maintainer: BlackStar <nasrawiziad@gmail.com>
 Author: BlackStar <nasrawiziad@gmail.com>
 Section: Tweaks
-Depends: 
-Filename: blackstar_0.0.1-3+debug_iphoneos-arm
+Depends: mobilesubstrate
+Filename: blackstar_0.0.1-3+debug_iphoneos-arm.deb
 Size: 3460
 MD5sum: d41d8cd98f00b204e9800998ecf8427e
 SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
