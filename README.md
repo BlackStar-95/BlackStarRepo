@@ -8,3 +8,9 @@ https://emn178.github.io/online-tools/md5_checksum.html
 ### Useful Commands (MacOs)
 bzip2 "Drag The Package File"
 >Zip pachage as .bz2
+
+### Useful Links For Tweaks Development 
+https://developer.limneos.net/
+>Ios headers
+https://offcornerdev.com/bundleid.html
+>Bundle id
