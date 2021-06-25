@@ -1,6 +1,6 @@
 # BlackStarRepo
 This is test Repo for ios jailbreak, feel free to use this templet / project to create your own repo.
-#### Guide from https://www.reddit.com/r/jailbreak/comments/90gpli/tutorial_create_a_cydia_repository_using_github/
+#### [Guide from u/juicymeatball](https://www.reddit.com/r/jailbreak/comments/90gpli/tutorial_create_a_cydia_repository_using_github/)
 ### Useful Links
 https://emn178.github.io/online-tools/md5_checksum.html
 >Generate MD5, SHA1, and SHA256.
@@ -8,9 +8,3 @@ https://emn178.github.io/online-tools/md5_checksum.html
 ### Useful Commands (MacOs)
 bzip2 "Drag The Package File"
 >Zip pachage as .bz2
-
-### Useful Links For Tweaks Development 
-https://developer.limneos.net/
->Ios headers
-### https://offcornerdev.com/bundleid.html
->Bundle id
