@@ -1,6 +1,6 @@
 # BlackStarRepo
 This is test Repo for ios jailbreak, feel free to use this templet / project to create your own repo.
-
+#### Guide from https://www.reddit.com/r/jailbreak/comments/90gpli/tutorial_create_a_cydia_repository_using_github/
 ### Useful Links
 https://emn178.github.io/online-tools/md5_checksum.html
 >Generate MD5, SHA1, and SHA256.
