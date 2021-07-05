@@ -9,7 +9,7 @@ https://emn178.github.io/online-tools/md5_checksum.html
 bzip2 "Drag The Package File"
 >Zip pachage as .bz2
 
-
-I am also looking for developers to help me continue to develop this tweak! (dm on [Twitter])(https://twitter.com/BStar_dev "Twitter").
+Don’t forget to[ follow me](https://twitter.com/BStar_dev " follow me")!
+I am also looking for developers to help me continue to develop this tweak! (dm on [Twitter](https://twitter.com/BStar_dev "Twitter").)
 
 [![](https://github.com/nasrawiziad/Avya/blob/main/Logo/blackstarlogo1.png?raw=true)](https://twitter.com/BStar_dev "![](https://github.com/nasrawiziad/Avya/blob/main/Logo/blackstarlogo1.png?raw=true)")
